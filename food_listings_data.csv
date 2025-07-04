@@ -1,0 +1,6 @@
+Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type
+1,Rice Packets,50,2023-10-10,1,Restaurant,Bangalore,Cooked,Lunch
+2,Bread Loaves,30,2023-10-12,2,Grocery,Chennai,Raw,Breakfast
+3,Vegetable Curry,40,2023-10-11,3,Restaurant,Hyderabad,Cooked,Dinner
+4,Fruit Packs,60,2023-10-13,4,Grocery,Mumbai,Raw,Breakfast
+5,Pulses,25,2023-10-14,5,Grocery,Pune,Raw,Lunch
